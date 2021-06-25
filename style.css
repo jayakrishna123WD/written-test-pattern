@@ -77,7 +77,7 @@
     }
     /* content design */
     #two{
-        height: 85vh;
+        padding: 10%;
     }
     #two h1{
         margin: 4%;
@@ -149,7 +149,7 @@
         display: none;
     }   
     #two{
-        height: 90vh;
+        padding: 5%;
     }
     #two h1{
         margin: 5% 0 4% 4%;
